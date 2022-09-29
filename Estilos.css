@@ -26,4 +26,7 @@ legend{
 body{
     background-color: aquamarine;
 }
+table, th,td{
+    border: 1px solid rgb(195, 175, 235);
+}
 
